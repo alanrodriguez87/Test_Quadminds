@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100060" started-at="2019-12-06T15:30:56Z" finished-at="2019-12-06T15:32:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100060" started-at="2019-12-06T15:30:56Z" finished-at="2019-12-06T15:32:36Z">
+      <class name="Tests.Front">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="6787" started-at="2019-12-06T12:30:56Z" finished-at="2019-12-06T12:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio01_Ts01()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio01_Ts01" duration-ms="5659" started-at="2019-12-06T12:31:03Z" finished-at="2019-12-06T12:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio01_Ts01 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="5808" started-at="2019-12-06T12:31:09Z" finished-at="2019-12-06T12:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio01_Ts02()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio01_Ts02" duration-ms="9594" started-at="2019-12-06T12:31:14Z" finished-at="2019-12-06T12:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio01_Ts02 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="6713" started-at="2019-12-06T12:31:24Z" finished-at="2019-12-06T12:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio01_Ts03()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio01_Ts03" duration-ms="15030" started-at="2019-12-06T12:31:31Z" finished-at="2019-12-06T12:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio01_Ts03 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="6907" started-at="2019-12-06T12:31:46Z" finished-at="2019-12-06T12:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio01_Ts04()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio01_Ts04" duration-ms="12932" started-at="2019-12-06T12:31:53Z" finished-at="2019-12-06T12:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio01_Ts04 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="6001" started-at="2019-12-06T12:32:06Z" finished-at="2019-12-06T12:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio01_Ts05()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio01_Ts05" duration-ms="5971" started-at="2019-12-06T12:32:12Z" finished-at="2019-12-06T12:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio01_Ts05 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.Front@5c3bd550]" name="SetUp" is-config="true" duration-ms="6017" started-at="2019-12-06T12:32:18Z" finished-at="2019-12-06T12:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Ejercicio02()[pri:0, instance:Tests.Front@5c3bd550]" name="Ejercicio02" duration-ms="12620" started-at="2019-12-06T12:32:24Z" finished-at="2019-12-06T12:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ejercicio02 -->
+      </class> <!-- Tests.Front -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
