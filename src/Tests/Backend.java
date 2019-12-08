@@ -15,15 +15,16 @@ public class Backend extends ApiConnection{
 	
 	@Test 
 	public void cantidadDeProductosEncontradosSinExcederElLimiteDePaginado() {
-		getBusquedaProducto("iphone","paging.limit");
-		Assert.assertTrue(cantidadDeProductosSinExcederElLimiteDePaginado("iphone").equals(getBusquedaProducto("iphone","paging.limit")));
+		int b = Integer.parseInt(getBusquedaProducto("iphone","paging.limit"));
+		int a = Integer.parseInt(cantidadDeProductosSinExcederElLimiteDePaginado("iphone"));
+		Assert.assertTrue(a<=b);
 		
 	}
 	
 	@Test
 	public void totalDeProductos() {
-		String str  = getBusquedaProducto("iphone","results.title");
-		Assert.assertTrue(str.contains(detalleProductoPorId("MLA827896003")));
+		String str  = getBusquedaProducto("fender","results.title");
+		Assert.assertTrue(str.contains(detalleProductoPorId("MLA795566984")));
 		
 	}
 	
